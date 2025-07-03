@@ -15,7 +15,11 @@ export default defineConfig({
   // Setting up the test folder
   test: {
     include: ['tests/**/*.{test,spec}.{js,mjs,cjs,ts,mts,cts,jsx,tsx}'],
+    coverage: {
+      reporter: ['text', 'json', 'html']
+    },
     environment: 'jsdom',
     setupFiles: ['tests/setup.js'],
+    globals:true
   },
 });

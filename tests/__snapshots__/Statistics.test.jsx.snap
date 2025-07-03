@@ -1,0 +1,302 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Statistics Component > matches snapshot 1`] = `
+<div>
+  <section
+    class="statistics-section "
+    data-theme="cyberpunk"
+  >
+    <div
+      class="cyberpunk-overlay"
+    />
+    <h2
+      class="stats-heading"
+    >
+      <span
+        aria-hidden="true"
+        class="glitch-layer glitch-layer-1"
+      >
+        Shaping Tomorrow's Innovators
+      </span>
+      <span
+        aria-hidden="true"
+        class="glitch-layer glitch-layer-2"
+      >
+        Shaping Tomorrow's Innovators
+      </span>
+      Shaping Tomorrow's Innovators
+      <span
+        class="subheading"
+      >
+        With World-Class AI Education
+      </span>
+    </h2>
+    <div
+      class="stats-grid-container"
+    >
+      <div
+        class="stats-grid"
+      >
+        <div
+          class="stat-card "
+          style="--neon-color: #00f7ff;"
+        >
+          <div
+            class="corner corner-tl"
+          />
+          <div
+            class="corner corner-tr"
+          />
+          <div
+            class="corner corner-bl"
+          />
+          <div
+            class="corner corner-br"
+          />
+          <div
+            class="holographic-effect"
+          />
+          <span
+            class="stat-value"
+            data-value="+0"
+          >
+            +
+            0
+          </span>
+          <span
+            class="stat-label"
+          >
+            <span
+              class="letter"
+              style="animation-delay: 0s;"
+            >
+              S
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.05s;"
+            >
+              t
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.1s;"
+            >
+              u
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.15000000000000002s;"
+            >
+              d
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.2s;"
+            >
+              e
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.25s;"
+            >
+              n
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.30000000000000004s;"
+            >
+              t
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.35000000000000003s;"
+            >
+              s
+            </span>
+          </span>
+        </div>
+        <div
+          class="stat-card "
+          style="--neon-color: #ff00aa;"
+        >
+          <div
+            class="corner corner-tl"
+          />
+          <div
+            class="corner corner-tr"
+          />
+          <div
+            class="corner corner-bl"
+          />
+          <div
+            class="corner corner-br"
+          />
+          <div
+            class="holographic-effect"
+          />
+          <span
+            class="stat-value"
+            data-value="+0"
+          >
+            +
+            0
+          </span>
+          <span
+            class="stat-label"
+          >
+            <span
+              class="letter"
+              style="animation-delay: 0s;"
+            >
+              C
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.05s;"
+            >
+              o
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.1s;"
+            >
+              u
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.15000000000000002s;"
+            >
+              n
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.2s;"
+            >
+              t
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.25s;"
+            >
+              r
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.30000000000000004s;"
+            >
+              i
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.35000000000000003s;"
+            >
+              e
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.4s;"
+            >
+              s
+            </span>
+          </span>
+        </div>
+        <div
+          class="stat-card "
+          style="--neon-color: #00ff88;"
+        >
+          <div
+            class="corner corner-tl"
+          />
+          <div
+            class="corner corner-tr"
+          />
+          <div
+            class="corner corner-bl"
+          />
+          <div
+            class="corner corner-br"
+          />
+          <div
+            class="holographic-effect"
+          />
+          <span
+            class="stat-value"
+            data-value="+0"
+          >
+            +
+            0
+          </span>
+          <span
+            class="stat-label"
+          >
+            <span
+              class="letter"
+              style="animation-delay: 0s;"
+            >
+              P
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.05s;"
+            >
+              r
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.1s;"
+            >
+              o
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.15000000000000002s;"
+            >
+              f
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.2s;"
+            >
+              e
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.25s;"
+            >
+              s
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.30000000000000004s;"
+            >
+              s
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.35000000000000003s;"
+            >
+              o
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.4s;"
+            >
+              r
+            </span>
+            <span
+              class="letter"
+              style="animation-delay: 0.45s;"
+            >
+              s
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="cyberpunk-grid"
+    />
+  </section>
+</div>
+`;

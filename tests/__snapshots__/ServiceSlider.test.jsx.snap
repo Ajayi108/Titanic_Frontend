@@ -1,0 +1,356 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ServiceSlider Component > matches snapshot 1`] = `
+<div>
+  <div
+    class="service-slider-container"
+  >
+    <h2
+      class="section-title"
+    >
+      What Our Clients are saying: 
+    </h2>
+    <div
+      class="swiper-mock"
+      data-testid="swiper-mock"
+    >
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Dr. Emily Clark"
+            class="review-avatar"
+            src="/src/assets/reviews/emily_clark.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Dr. Emily Clark
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            Marine Historian
+            , 
+            Boston, USA
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            Fascinating Historical Insight
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            A brilliant mix of history and AI — it helped my students engage with the past in a fresh way.
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Carlos Méndez"
+            class="review-avatar"
+            src="/src/assets/reviews/carlos_mendez.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Carlos Méndez
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            AI Student
+            , 
+            Puebla, Mexico
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            Great Educational Tool
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            As an AI student, I found the survival model to be a fantastic example of practical machine learning. Highly recommended!
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Sophia Becker"
+            class="review-avatar"
+            src="/src/assets/reviews/sophia_becker.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Sophia Becker
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            UX Designer
+            , 
+            Berlin, Germany
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            Intuitive and Engaging
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            Loved how user-friendly the interface is. It feels like learning history and tech in one place.
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Ahmed Youssef"
+            class="review-avatar"
+            src="/src/assets/reviews/ahmed_youssef.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Ahmed Youssef
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            Data Analyst
+            , 
+            Cairo, Egypt
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            Impressive Accuracy
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            I analyzed the model predictions and they’re surprisingly precise. It’s a well-thought-out system.
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Yuki Tanaka"
+            class="review-avatar"
+            src="/src/assets/reviews/yuki_tanaka.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Yuki Tanaka
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            High School Teacher
+            , 
+            Osaka, Japan
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            Brilliant for Classroom Use
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            I used the Titanic predictor in my history class, it fascinated students and sparked powerful discussions about AI.
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Fatima El Amrani"
+            class="review-avatar"
+            src="/src/assets/reviews/fatima_amrani.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Fatima El Amrani
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            Machine Learning Enthusiast
+            , 
+            Casablanca, Morocco
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+              Solid Intro to AI Concepts  
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            The AI courses on Iceberg-AI gave me the clarity I needed to finally understand model training.
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Tomáš Novák"
+            class="review-avatar"
+            src="/src/assets/reviews/tomas_novak.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Tomáš Novák
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            Frontend Developer
+            , 
+            Prague, Czech Republic
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            The Predictor Is Eye-Opening
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            The survival tool was surprisingly engaging — accurate and made history feel alive.
+            "
+          </p>
+        </div>
+      </div>
+      <div
+        class="swiper-slide-mock"
+        data-testid="swiper-slide-mock"
+      >
+        <div
+          class="review-card"
+        >
+          <img
+            alt="Maya Patel"
+            class="review-avatar"
+            src="/src/assets/reviews/maya_patel.png"
+          />
+          <h3
+            class="review-name"
+          >
+              
+            Maya Patel
+             
+          </h3>
+          <p
+            class="review-profession"
+          >
+            Computer Science Student
+            , 
+            Toronto, Canada
+          </p>
+          <h4
+            class="review-title"
+          >
+             "
+            AI Course Quality Surprised Me
+            "
+          </h4>
+          <p
+            class="review-description"
+          >
+            "
+            I took a few free courses out of curiosity, and the content really impressed me. Definitely worth it!
+            "
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
