@@ -1,0 +1,639 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PopularCourses Component > matches snapshot 1`] = `
+<div>
+  <section
+    class="ai-courses-section"
+  >
+    <div
+      class="courses-container"
+    >
+       
+      <div
+        class="ai-section-header"
+      >
+        <h1
+          class="ai-courses-title"
+        >
+          Popular Courses
+        </h1>
+        <p
+          class="ai-section-subtitle"
+        >
+          Master AI with our cutting-edge curriculum
+        </p>
+      </div>
+      <div
+        class="ai-courses-grid"
+      >
+        <div
+          class="ai-course-card"
+          style="--delay: 0s;"
+        >
+          <div
+            class="card-shine"
+          />
+          <div
+            class="course-image-container"
+          >
+            <img
+              alt="Titanic Survival Predictor"
+              class="course-image"
+              loading="lazy"
+              src="/src/assets/courses/titanic-course.png"
+            />
+            <div
+              class="image-overlay"
+            />
+            <span
+              class="course-duration"
+            >
+              15
+               weeks
+            </span>
+          </div>
+          <div
+            class="course-content"
+          >
+            <div
+              class="course-header"
+            >
+              <h3
+                class="course-title"
+              >
+                <span
+                  class="title-highlight"
+                >
+                  Titanic Survival Predictor
+                </span>
+              </h3>
+              <div
+                class="tech-tags"
+              >
+                <span
+                  class="tech-tag"
+                >
+                  Data preprocessing
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Logistic regression
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Model evaluation
+                </span>
+              </div>
+            </div>
+            <p
+              class="course-desc"
+            >
+              Build an AI model to predict Titanic survival using real passenger data.
+            </p>
+            <div
+              class="course-footer"
+            >
+              <div
+                class="instructor-info"
+              >
+                <div
+                  class="instructor-avatar"
+                  style="background-image: url("undefined");"
+                />
+                <span>
+                  Dr. Emily Clark
+                </span>
+              </div>
+              <div
+                class="course-cta"
+              >
+                <span
+                  class="enroll-text"
+                >
+                  Enroll Now
+                </span>
+                <div
+                  class="arrow-icon"
+                >
+                  →
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ai-course-card"
+          style="--delay: 0.1s;"
+        >
+          <div
+            class="card-shine"
+          />
+          <div
+            class="course-image-container"
+          >
+            <img
+              alt="Machine Learning Fundamentals"
+              class="course-image"
+              loading="lazy"
+              src="/src/assets/courses/fundamentals.png"
+            />
+            <div
+              class="image-overlay"
+            />
+            <span
+              class="course-duration"
+            >
+              15
+               weeks
+            </span>
+          </div>
+          <div
+            class="course-content"
+          >
+            <div
+              class="course-header"
+            >
+              <h3
+                class="course-title"
+              >
+                <span
+                  class="title-highlight"
+                >
+                  Machine Learning Fundamentals
+                </span>
+              </h3>
+              <div
+                class="tech-tags"
+              >
+                <span
+                  class="tech-tag"
+                >
+                  Supervised learning
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Model training & testing
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Feature engineering
+                </span>
+              </div>
+            </div>
+            <p
+              class="course-desc"
+            >
+              Understand core ML algorithms and workflows for real-world projects.
+            </p>
+            <div
+              class="course-footer"
+            >
+              <div
+                class="instructor-info"
+              >
+                <div
+                  class="instructor-avatar"
+                  style="background-image: url("undefined");"
+                />
+                <span>
+                  Prof. John Doe
+                </span>
+              </div>
+              <div
+                class="course-cta"
+              >
+                <span
+                  class="enroll-text"
+                >
+                  Enroll Now
+                </span>
+                <div
+                  class="arrow-icon"
+                >
+                  →
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ai-course-card"
+          style="--delay: 0.2s;"
+        >
+          <div
+            class="card-shine"
+          />
+          <div
+            class="course-image-container"
+          >
+            <img
+              alt="Data Visualization with Python"
+              class="course-image"
+              loading="lazy"
+              src="/src/assets/courses/python_course.png"
+            />
+            <div
+              class="image-overlay"
+            />
+            <span
+              class="course-duration"
+            >
+              10
+               weeks
+            </span>
+          </div>
+          <div
+            class="course-content"
+          >
+            <div
+              class="course-header"
+            >
+              <h3
+                class="course-title"
+              >
+                <span
+                  class="title-highlight"
+                >
+                  Data Visualization with Python
+                </span>
+              </h3>
+              <div
+                class="tech-tags"
+              >
+                <span
+                  class="tech-tag"
+                >
+                  Matplotlib & Seaborn
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Data storytelling
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Exploratory Data Analysis (EDA)
+                </span>
+              </div>
+            </div>
+            <p
+              class="course-desc"
+            >
+              Master libraries like Matplotlib and Seaborn to tell data-driven stories.
+            </p>
+            <div
+              class="course-footer"
+            >
+              <div
+                class="instructor-info"
+              >
+                <div
+                  class="instructor-avatar"
+                  style="background-image: url("undefined");"
+                />
+                <span>
+                  Dr. Jane Smith
+                </span>
+              </div>
+              <div
+                class="course-cta"
+              >
+                <span
+                  class="enroll-text"
+                >
+                  Enroll Now
+                </span>
+                <div
+                  class="arrow-icon"
+                >
+                  →
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ai-course-card"
+          style="--delay: 0.30000000000000004s;"
+        >
+          <div
+            class="card-shine"
+          />
+          <div
+            class="course-image-container"
+          >
+            <img
+              alt="Ethics in AI"
+              class="course-image"
+              loading="lazy"
+              src="/src/assets/courses/ai-ethics.png"
+            />
+            <div
+              class="image-overlay"
+            />
+            <span
+              class="course-duration"
+            >
+              8
+               weeks
+            </span>
+          </div>
+          <div
+            class="course-content"
+          >
+            <div
+              class="course-header"
+            >
+              <h3
+                class="course-title"
+              >
+                <span
+                  class="title-highlight"
+                >
+                  Ethics in AI
+                </span>
+              </h3>
+              <div
+                class="tech-tags"
+              >
+                <span
+                  class="tech-tag"
+                >
+                  Bias detection
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Responsible AI
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  AI regulation awareness
+                </span>
+              </div>
+            </div>
+            <p
+              class="course-desc"
+            >
+              Explore ethical considerations and best practices in AI development.
+            </p>
+            <div
+              class="course-footer"
+            >
+              <div
+                class="instructor-info"
+              >
+                <div
+                  class="instructor-avatar"
+                  style="background-image: url("undefined");"
+                />
+                <span>
+                  Dr. Alice Johnson
+                </span>
+              </div>
+              <div
+                class="course-cta"
+              >
+                <span
+                  class="enroll-text"
+                >
+                  Enroll Now
+                </span>
+                <div
+                  class="arrow-icon"
+                >
+                  →
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ai-course-card"
+          style="--delay: 0.4s;"
+        >
+          <div
+            class="card-shine"
+          />
+          <div
+            class="course-image-container"
+          >
+            <img
+              alt="Deep Learning Essentials"
+              class="course-image"
+              loading="lazy"
+              src="/src/assets/courses/deep-learning.png"
+            />
+            <div
+              class="image-overlay"
+            />
+            <span
+              class="course-duration"
+            >
+              14
+               weeks
+            </span>
+          </div>
+          <div
+            class="course-content"
+          >
+            <div
+              class="course-header"
+            >
+              <h3
+                class="course-title"
+              >
+                <span
+                  class="title-highlight"
+                >
+                  Deep Learning Essentials
+                </span>
+              </h3>
+              <div
+                class="tech-tags"
+              >
+                <span
+                  class="tech-tag"
+                >
+                  Neural network architecture
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Backpropagation
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  TensorFlow/PyTorch basics
+                </span>
+              </div>
+            </div>
+            <p
+              class="course-desc"
+            >
+              Dive into neural networks and learn how deep learning powers modern AI.
+            </p>
+            <div
+              class="course-footer"
+            >
+              <div
+                class="instructor-info"
+              >
+                <div
+                  class="instructor-avatar"
+                  style="background-image: url("undefined");"
+                />
+                <span>
+                  Dr. Marco Rivera
+                </span>
+              </div>
+              <div
+                class="course-cta"
+              >
+                <span
+                  class="enroll-text"
+                >
+                  Enroll Now
+                </span>
+                <div
+                  class="arrow-icon"
+                >
+                  →
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ai-course-card"
+          style="--delay: 0.5s;"
+        >
+          <div
+            class="card-shine"
+          />
+          <div
+            class="course-image-container"
+          >
+            <img
+              alt="Natural Language Processing"
+              class="course-image"
+              loading="lazy"
+              src="/src/assets/courses/nlp.png"
+            />
+            <div
+              class="image-overlay"
+            />
+            <span
+              class="course-duration"
+            >
+              11
+               weeks
+            </span>
+          </div>
+          <div
+            class="course-content"
+          >
+            <div
+              class="course-header"
+            >
+              <h3
+                class="course-title"
+              >
+                <span
+                  class="title-highlight"
+                >
+                  Natural Language Processing
+                </span>
+              </h3>
+              <div
+                class="tech-tags"
+              >
+                <span
+                  class="tech-tag"
+                >
+                  Text preprocessing
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Sentiment analysis
+                </span>
+                <span
+                  class="tech-tag"
+                >
+                  Transformer models
+                </span>
+              </div>
+            </div>
+            <p
+              class="course-desc"
+            >
+              Learn how machines understand and generate human language with NLP techniques.
+            </p>
+            <div
+              class="course-footer"
+            >
+              <div
+                class="instructor-info"
+              >
+                <div
+                  class="instructor-avatar"
+                  style="background-image: url("undefined");"
+                />
+                <span>
+                  Dr. Susan Lin
+                </span>
+              </div>
+              <div
+                class="course-cta"
+              >
+                <span
+                  class="enroll-text"
+                >
+                  Enroll Now
+                </span>
+                <div
+                  class="arrow-icon"
+                >
+                  →
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-all-container"
+      >
+        <a
+          class="view-all-btn"
+          data-discover="true"
+          href="/courses"
+        >
+          <span>
+            Explore All Courses
+          </span>
+          <div
+            class="btn-arrow"
+          >
+            <div
+              class="arrow-line"
+            />
+            <div
+              class="arrow-head"
+            />
+          </div>
+        </a>
+      </div>
+    </div>
+     
+  </section>
+</div>
+`;

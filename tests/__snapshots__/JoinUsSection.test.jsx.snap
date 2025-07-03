@@ -1,0 +1,121 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`JoinUsSection Component > matches snapshot 1`] = `
+<div>
+  <section
+    class="join-us-section"
+  >
+    <div
+      class="cyber-grid-overlay"
+    />
+    <div
+      class="join-us-container"
+    >
+      <div
+        class="video-column"
+      >
+        <div
+          class="video-frame"
+        >
+          <video
+            autoplay=""
+            class="cyber-video"
+            loop=""
+            playsinline=""
+            src="/src/assets/shot-titanic.mp4"
+          />
+          <div
+            class="video-glowing-border"
+          />
+        </div>
+      </div>
+      <div
+        class="content-column"
+      >
+        <h2
+          class="cyber-title"
+        >
+          <span
+            class="glowing-text"
+          >
+            Let's Build
+          </span>
+          <span
+            class="glowing-text-accent"
+          >
+            The Future
+          </span>
+          <span
+            class="glowing-text"
+          >
+            Together
+          </span>
+        </h2>
+        <div
+          class="content-grid"
+        >
+          <div
+            class="cyber-card"
+          >
+            <h3
+              class="card-title"
+            >
+              Push Boundaries
+            </h3>
+            <p
+              class="card-text"
+            >
+              We don't just take on projects—we take on possibilities. With brilliant minds and bold ideas.
+            </p>
+          </div>
+          <div
+            class="cyber-card accent"
+          >
+            <h3
+              class="card-title"
+            >
+              AI Specialists
+            </h3>
+            <p
+              class="card-text"
+            >
+              Machine Learning engineers crafting technology that's both innovative and impactful.
+            </p>
+          </div>
+        </div>
+        <div
+          class="highlight-box"
+        >
+          <div
+            class="pulse-dot"
+          />
+          <p>
+            <strong>
+              Immersive AI Experience:
+            </strong>
+             Discover if you'd survive Titanic by tweaking real data and seeing AI predictions in action.
+          </p>
+        </div>
+        <a
+          class="cyber-button"
+          href="/Signup"
+        >
+          <span>
+            Join Our Crew
+          </span>
+          <div
+            class="button-lights"
+          >
+            <span
+              class="light blue"
+            />
+            <span
+              class="light teal"
+            />
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+</div>
+`;
